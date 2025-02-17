@@ -33,4 +33,4 @@ parent: obsidian
 4. В настройках плагина нажмите кнопку Reload packages и выберите пакет CSM Reaty settings
 Стили вдохновлялись частично Canvas Candy, частично самим плагином, но кое-что я добавила от себя. Весь функционал можно посмотреть на картинке:
 
-![](https://raw.githubusercontent.com/anareaty/obsidian-snippets/main/Canvas-style-menu-preset/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-Canvas-style-menu.png)
+![[./images/a4d17adfc033b73c891667cafa7ba2ea_MD5.png|a4d17adfc033b73c891667cafa7ba2ea_MD5.png]]
