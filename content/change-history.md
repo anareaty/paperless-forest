@@ -70,7 +70,7 @@ path: content
 
 ### 16 декабря 2023
 
-- [[./how-to-reuse-dataviewjs-code|Как переиспользовать код с помощью dataviewjs]] 
+- [[Как переиспользовать код с помощью dataviewjs 1|Как переиспользовать код с помощью dataviewjs 1]] 
 
 ### 03 октября 2023
 
@@ -100,7 +100,7 @@ path: content
 
 ### 08 сентября 2023
 
-- [[../Obsidian|Obsidian]] 
+- [[Obsidian|Obsidian]] 
 - [[./custom-checkboxes|Кастомные чекбоксы в Obsidian]] 
 
 ### 07 сентября 2023
