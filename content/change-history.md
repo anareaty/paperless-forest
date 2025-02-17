@@ -109,3 +109,4 @@ path: content
 - [[./three-act-structure|Трёхактная структура]] 
 - [[./obsidian-quickadd-how-to-run-scripts|Obsidian QuickAdd - как запускать скрипты]] 
 - [[./pocketbook-collection-manager|Менеджер коллекций для Покетбука]] 
+

@@ -111,4 +111,3 @@ const newClass = new myClass
 newClass.myFunc()
 ```
 
-

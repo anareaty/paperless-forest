@@ -25,4 +25,3 @@ parent: tech
 ---
 
 [Obsidian](https://obsidian.md/) — приложение для заметок в формате Markdown.
-
