@@ -1,7 +1,6 @@
 ---
-date: 
-publishDate: 
-path: content
+date: 2025-02-18
+publishDate: 2025-02-18T14:04:00
 filename: new-way-to-publish
 title: Новый подход к публикации
 parent: 
