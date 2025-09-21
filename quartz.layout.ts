@@ -67,7 +67,6 @@ export const defaultContentPageLayout: CustomPageLayout = {
         lang: 'ru',
         mapping: "title",
         inputPosition: "top",
-        themeUrl: "http://paperless-forest.ru/static/giscus",
         lightTheme: "light-theme"
       }
     }),

@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "anareaty.github.io/quartz-test",
+    baseUrl: "paperless-forest.ru",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     entriesOnFeedPage: 5,
