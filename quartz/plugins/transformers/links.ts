@@ -83,6 +83,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   })
                 }
 
+
+               
+
+
+
+
+
                 // Check if the link has alias text
                 if (
                   node.children.length === 1 &&
@@ -153,8 +160,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     transformOptions,
                   )
                   node.properties.src = dest
+
+                  
+                  
                 }
               }
+
+              
             })
 
             file.data.links = [...outgoing]
