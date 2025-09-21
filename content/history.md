@@ -1,3 +1,5 @@
 ---
-hidden: true
+title: История изменений
+feed: false
+comments: false
 ---

@@ -1,4 +1,5 @@
 ---
 title: Обо мне
-hidden: true
+feed: false
+comments: false
 ---

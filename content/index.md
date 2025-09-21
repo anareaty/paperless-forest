@@ -1,6 +1,7 @@
 ---
 title: Paperless Forest
-hidden: true
+feed: false
+comments: false
 ---
 
 Сайт временно на реконструкции.

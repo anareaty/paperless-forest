@@ -37,7 +37,7 @@ const Feed: QuartzComponent = (props: QuartzComponentProps) => {
 
 
   //let feedFiles = props.allFiles.filter(file => file.frontmatter && file.frontmatter.feed)
-  let feedFiles = props.allFiles.filter(file => file.frontmatter && !file.frontmatter.hidden && file.text)
+  let feedFiles = props.allFiles.filter(file => file.frontmatter && file.frontmatter.feed !== false && file.text)
   
 
   //console.log(feedFiles)

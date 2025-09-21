@@ -57,6 +57,20 @@ export const defaultContentPageLayout: CustomPageLayout = {
   ],
   afterBody: [
     Component.Backlinks(),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        repo: "anareaty/paperless-forest",
+        repoId: "R_kgDOPz6IWg",
+        category: 'Announcements',
+        categoryId: "DIC_kwDOPz6IWs4Cvs4a",
+        lang: 'ru',
+        mapping: "title",
+        inputPosition: "top",
+        themeUrl: "http://paperless-forest.ru/static/giscus",
+        lightTheme: "light-theme"
+      }
+    }),
   ]
 }
 
