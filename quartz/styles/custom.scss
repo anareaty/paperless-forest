@@ -161,10 +161,16 @@ button.search-button {
     display: none;
 }
 
+
+
+
 @media not (min-width: 1200px) {
-  .page > #quartz-body .right.sidebar > .flex-component {
+
+  .page>#quartz-body .right.sidebar{
     display: none;
-  }
+}
+
+
   .page > #quartz-body .left.sidebar .flex-component {
     display: flex;
   }

@@ -1,10 +1,14 @@
-main .gsc-loading-image{
+main .gsc-loading-image,
+main .gsc-loading-text,
+main .gsc-reactions-count {
     display: none !important;
 }
 
-main .gsc-loading-text{
-    display: none !important;
+
+main .gcs-main {
+  gap: 0;
 }
+
 
 
 main {
