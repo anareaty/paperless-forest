@@ -9,6 +9,10 @@ main .gcs-main {
   gap: 0;
 }
 
+main .gcs-comments {
+  gap: 0.5rem;
+}
+
 
 
 main {
