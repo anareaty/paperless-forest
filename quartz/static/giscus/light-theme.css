@@ -14,6 +14,11 @@ main .gcs-comments {
 }
 
 
+.gsc-comment-box-textarea::placeholder {
+    color: var(--color-fg-muted);
+}
+
+
 
 main {
   --color-prettylights-syntax-comment: #6e7781;
