@@ -31,10 +31,23 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          directory cname: paperless-forest.ru
+          cname: paperless-forest.ru
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+          
           
 
 
