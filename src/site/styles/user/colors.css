@@ -166,6 +166,7 @@ table {
 
 td, th {
   border: 1px solid var(--text-faint);
+  padding: 4px 8px;
 }
 
 
