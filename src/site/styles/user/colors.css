@@ -171,6 +171,12 @@ td, th {
 
 
 
+.toc-container ul,
+.toc-container ol,
+.filelist {
+  border-left: none;
+}
+
 
 
 
