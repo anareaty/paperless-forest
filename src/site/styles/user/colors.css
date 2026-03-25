@@ -43,7 +43,7 @@ body {
     --font-default: "Noto Serif";
 }
 
-.filetree-sidebar {
+.filetree-sidebar, .navbar {
     box-sizing: border-box;
 }
 
