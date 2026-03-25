@@ -179,6 +179,30 @@ td, th {
 
 
 
+.toc-container {
+  max-height: unset;
+}
+
+
+.toc>ol {
+  padding-left: 0 !important
+}
+
+
+.filetree-sidebar > .folder > * > .inner-folder,
+.filetree-sidebar > .folder > div:not(.filelist) > .notelink
+{
+  margin-left: 0
+}
+
+
+
+
+
+
+
+
+
 
 
 
