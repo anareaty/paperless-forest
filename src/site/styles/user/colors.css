@@ -8,6 +8,17 @@ body {
 
 
 .theme-light {
+
+  --color-red-rgb: 200, 55, 55;
+  --color-orange-rgb: 216, 105, 14;
+  --color-yellow-rgb: 204, 153, 0;
+  --color-green-rgb: 89, 141, 37;
+  --color-cyan-rgb: 29, 131, 149;
+  --color-blue-rgb: 59, 128, 196;
+  --color-purple-rgb: 101, 81, 189;
+  --color-pink-rgb: 221, 98, 135;
+
+  
     --background-primary: hsl(0, 0%, 100%);
     --background-primary-alt: hsl(30, 20%, 98%);
     --background-secondary: hsl(30, 20%, 98%);
