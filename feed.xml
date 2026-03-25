@@ -3,14 +3,15 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-25T14:21:46Z</updated>
+  <updated>2026-03-25T14:23:28Z</updated>
   <id>https://paperless-forest.ru</id><entry>
     <title>Легенда (значки)</title>
-    <updated>2026-03-25T14:21:37Z</updated>
+    <updated>2026-03-25T14:23:15Z</updated>
     <id>https://paperless-forest.ru/zametki/legenda-znachki/</id>
     <content type="html">&lt;h2 id=&quot;spiski&quot; tabindex=&quot;-1&quot;&gt;Списки&lt;/h2&gt;
+&lt;p&gt;gg&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;?&quot; style=&quot;color: rgb(var(--color-yellow-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   question-mark-glyph&quot;&gt;&lt;path d=&quot;M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2   6.47715 2 12C2 17.5228 6.47715 22 12 22Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M9.09009 9.00003C9.32519 8.33169 9.78924   7.76813 10.4 7.40916C11.0108 7.05019 12.079 6.94542 12.7773 7.06519C13.9093 7.25935 14.9767 8.25497   14.9748 9.49073C14.9748 11.9908 12 11.2974 12 14&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12 17H12.01&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;?&lt;/code&gt; Подумать или уточнить&lt;/li&gt;
+&lt;li&gt;? &lt;code&gt;?&lt;/code&gt; Подумать или уточнить&lt;/li&gt;
 &lt;li&gt;-- &lt;code&gt;--&lt;/code&gt; Процесс, чем сейчас занимаюсь&lt;/li&gt;
 &lt;li&gt;++ &lt;code&gt;++&lt;/code&gt; Сделано, завершено&lt;/li&gt;
 &lt;li&gt;&amp;amp; &lt;code&gt;&amp;amp;&lt;/code&gt; Событие, происшествие&lt;/li&gt;
@@ -69,7 +70,7 @@
     <link href="https://paperless-forest.ru/zametki/legenda-znachki/"/>
   </entry><entry>
     <title>Без названия 3</title>
-    <updated>2026-03-25T14:21:37Z</updated>
+    <updated>2026-03-25T14:23:15Z</updated>
     <id>https://paperless-forest.ru/Без названия 3/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -101,7 +102,7 @@ console.log(y(x))
     <link href="https://paperless-forest.ru/Без названия 3/"/>
   </entry><entry>
     <title>Без названия 1</title>
-    <updated>2026-03-25T14:21:37Z</updated>
+    <updated>2026-03-25T14:23:15Z</updated>
     <id>https://paperless-forest.ru/Без названия 1/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -110,7 +111,7 @@ console.log(y(x))
     <link href="https://paperless-forest.ru/Без названия 1/"/>
   </entry><entry>
     <title>Без названия 2</title>
-    <updated>2026-03-25T14:21:37Z</updated>
+    <updated>2026-03-25T14:23:15Z</updated>
     <id>https://paperless-forest.ru/Без названия 2/</id>
     <content type="html">&lt;p&gt;Vvg&lt;/p&gt;
 &lt;h2 id=&quot;vstroennoe-formatirovanie&quot; tabindex=&quot;-1&quot;&gt;Встроенное форматирование&lt;/h2&gt;
