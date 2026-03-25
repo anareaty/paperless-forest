@@ -1,27 +1,8 @@
 const values = [
-  // [' ', false],
-  // ['\u00A0', false],// non-breaking space
-  // ['x', true],
   ['/', true],
   ['-', true],
   ['>', true],
-  ['<', true],
-  ['?', true],
-  ['!', true],
-  ['*', true],
-  ['"', true],
-  ['i', true],
-  ['l', true],
-  ['b', true],
-  ['S', true],
-  ['I', true],
-  ['p', true],
-  ['c', true],
-  ['f', true],
-  ['k', true],
-  ['w', true],
-  ['u', true],
-  ['d', true],
+  ['~', true]
 ];
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
