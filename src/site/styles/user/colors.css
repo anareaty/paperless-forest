@@ -41,6 +41,8 @@ body {
   
     --dg-notelink-size: 1rem;
     --font-default: "Noto Serif";
+
+  --dg-content-max-width: 850px;
 }
 
 .filetree-sidebar, .navbar {
