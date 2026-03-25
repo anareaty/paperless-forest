@@ -3,10 +3,10 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-25T10:07:23Z</updated>
+  <updated>2026-03-25T10:11:02Z</updated>
   <id>https://paperless-forest.ru</id><entry>
     <title>Без названия 3</title>
-    <updated>2026-03-25T10:07:11Z</updated>
+    <updated>2026-03-25T10:10:51Z</updated>
     <id>https://paperless-forest.ru/Без названия 3/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -37,15 +37,18 @@ console.log(y(x))
 &lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;cbx_2&quot; disabled=&quot;true&quot; /&gt;&lt;label for=&quot;cbx_2&quot;&gt; Ghjjkk&lt;/label&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;🤣 Gggg&lt;br /&gt;
-Gg&lt;/p&gt;
+&lt;p&gt;🤣 Gggg&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🤣 ghh&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Gg&lt;/p&gt;
 </content>
     <link href="https://paperless-forest.ru/Без названия 3/"/>
   </entry><entry>
     <title>Без названия 1</title>
-    <updated>2026-03-25T10:07:11Z</updated>
+    <updated>2026-03-25T10:10:51Z</updated>
     <id>https://paperless-forest.ru/Без названия 1/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -54,7 +57,7 @@ Gg&lt;/p&gt;
     <link href="https://paperless-forest.ru/Без названия 1/"/>
   </entry><entry>
     <title>Без названия 2</title>
-    <updated>2026-03-25T10:07:11Z</updated>
+    <updated>2026-03-25T10:10:51Z</updated>
     <id>https://paperless-forest.ru/Без названия 2/</id>
     <content type="html">&lt;p&gt;Vvg&lt;/p&gt;
 &lt;h2 id=&quot;vstroennoe-formatirovanie&quot; tabindex=&quot;-1&quot;&gt;Встроенное форматирование&lt;/h2&gt;
