@@ -3,10 +3,10 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-25T14:47:06Z</updated>
+  <updated>2026-03-25T14:51:14Z</updated>
   <id>https://paperless-forest.ru</id><entry>
     <title>Легенда (значки)</title>
-    <updated>2026-03-25T14:46:52Z</updated>
+    <updated>2026-03-25T14:51:02Z</updated>
     <id>https://paperless-forest.ru/zametki/legenda-znachki/</id>
     <content type="html">&lt;h2 id=&quot;spiski&quot; tabindex=&quot;-1&quot;&gt;Списки&lt;/h2&gt;
 &lt;p&gt;gg&lt;/p&gt;
@@ -23,7 +23,7 @@
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;юю&quot; style=&quot;color: rgb(var(--color-red-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-youtube&quot;&gt;&lt;path d=&quot;M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0   0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5   17&quot;&gt;&lt;/path&gt;&lt;path d=&quot;m10 15 5-3-5-3z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;юю&lt;/code&gt; Ютуб&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;кк&quot; style=&quot;color: rgb(var(--color-purple-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-film&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;18&quot; height=&quot;18&quot; rx=&quot;2&quot;&gt;&lt;/rect&gt;&lt;path d=&quot;M7 3v18&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M3   7.5h4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M3 12h18&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M3 16.5h4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M17 3v18&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M17 7.5h4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M17 16.5h4&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; кк Кино&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;чч&quot; style=&quot;color: rgb(var(--color-blue-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-book-open-text&quot;&gt;&lt;path d=&quot;M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M22 3h-6a4 4 0   0 0-4 4v14a3 3 0 0 1 3-3h7z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M6 8h2&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M6 12h2&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16   8h2&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 12h2&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;чч&lt;/code&gt; Читаю&lt;/li&gt;
-&lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;пп&quot; style=&quot;color: rgb(var(--color-purple-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-scroll-text&quot;&gt;&lt;path d=&quot;M8 21h12a2 2 0 0 0 2-2v-2H10v2a2 2 0 1 1-4 0V5a2 2 0 1 0-4   0v3h4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M19 17V5a2 2 0 0 0-2-2H4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M15 8h-5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M15 12h-  5&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;пп&lt;/code&gt; Пишу&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;пп&quot; style=&quot;color: rgb(var(--color-purple-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-scroll-text&quot;&gt;&lt;path d=&quot;M8 21h12a2 2 0 0 0 2-2v-2H10v2a2 2 0 1 1-4 0V5a2 2 0 1 0-4   0v3h4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M19 17V5a2 2 0 0 0-2-2H4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M15 8h-5&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M15 12h-5&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;пп&lt;/code&gt; Пишу&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;!&quot; style=&quot;color: rgb(var(--color-cyan-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-edit&quot;&gt;&lt;path d=&quot;M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M18.5   2.5a2.12 2.12 0 0 1 3 3L12 15l-4 1 1-4Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;!&lt;/code&gt; Не забыть&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;!!&quot; style=&quot;color: rgb(var(--color-red-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-alert-triangle&quot;&gt;&lt;path d=&quot;m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-  3Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12 9v4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12 17h.01&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;!!&lt;/code&gt; Важное, предупреждение&lt;/li&gt;
 &lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;зз&quot; style=&quot;color: rgb(var(--color-orange-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-bookmark&quot;&gt;&lt;path d=&quot;m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; &lt;code&gt;зз&lt;/code&gt; Закладка, прочитать позже&lt;/li&gt;
@@ -72,7 +72,7 @@
     <link href="https://paperless-forest.ru/zametki/legenda-znachki/"/>
   </entry><entry>
     <title>Без названия 3</title>
-    <updated>2026-03-25T14:46:52Z</updated>
+    <updated>2026-03-25T14:51:02Z</updated>
     <id>https://paperless-forest.ru/Без названия 3/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -104,7 +104,7 @@ console.log(y(x))
     <link href="https://paperless-forest.ru/Без названия 3/"/>
   </entry><entry>
     <title>Без названия 1</title>
-    <updated>2026-03-25T14:46:52Z</updated>
+    <updated>2026-03-25T14:51:02Z</updated>
     <id>https://paperless-forest.ru/Без названия 1/</id>
     <content type="html">&lt;p&gt;Пппппппр&lt;/p&gt;
 &lt;p&gt;Тт&lt;/p&gt;
@@ -113,7 +113,7 @@ console.log(y(x))
     <link href="https://paperless-forest.ru/Без названия 1/"/>
   </entry><entry>
     <title>Без названия 2</title>
-    <updated>2026-03-25T14:46:52Z</updated>
+    <updated>2026-03-25T14:51:02Z</updated>
     <id>https://paperless-forest.ru/Без названия 2/</id>
     <content type="html">&lt;p&gt;Vvg&lt;/p&gt;
 &lt;h2 id=&quot;vstroennoe-formatirovanie&quot; tabindex=&quot;-1&quot;&gt;Встроенное форматирование&lt;/h2&gt;
