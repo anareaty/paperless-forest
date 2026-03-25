@@ -34,17 +34,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
+/*
 body {
-  /*
+  
     --dg-filetree-width: 270px;
-  */
+  
     --dg-notelink-size: 1rem;
     --font-default: "Noto Serif";
 }
 
 .filetree-sidebar {
-    /*box-sizing: border-box;*/
+    box-sizing: border-box;
 }
 
 
@@ -64,9 +64,10 @@ body {
 }
 
 .filetree-wrapper {
-    /*width: unset;*/
+    width: unset;
 }
 
+*/
 
 .notelink a.filename {
     color: var(--link-color)
