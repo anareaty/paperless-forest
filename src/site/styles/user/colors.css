@@ -1,9 +1,9 @@
 .filetree-wrapper {
-	border-right: 1px solid var(--background-modifier-border)
+	box-shadow: 1px 0 0 0 solid var(--background-modifier-border)
 }
 
 .navbar {
-	border-bottom: 1px solid var(--background-modifier-border)
+	box-shadow 0 1px 0 0 var(--background-modifier-border)
 }
 
 
