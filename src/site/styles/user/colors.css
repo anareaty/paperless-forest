@@ -6,6 +6,7 @@
 
 .timestamps {
 	margin-top: 0;
+	order: -1;
 }
 
 header h1 {
