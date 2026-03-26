@@ -317,7 +317,9 @@ a {
 
 
 
-a.tag {
+a.tag,
+.preview-content .preview-tags .tag
+{
     background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
     border-radius: 2em;
     color: var(--text-accent);
