@@ -503,3 +503,14 @@ obsidian-base-card-value[data-column="tags"] .obsidian-base-value-list-item {
     background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
     color: var(--text-accent);
 }
+
+.obsidian-base-card-title {
+    margin-bottom: 0;
+}
+
+
+.obsidian-base-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
