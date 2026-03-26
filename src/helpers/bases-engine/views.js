@@ -378,7 +378,7 @@ function buildCardsGrid(rows, columns, cardSize, imageField, imageFit, imageAspe
 			const value = getCellValue(row, col);
 			if (value == null) continue;
 			const displayName = getDisplayName(col, properties);
-			html += `<div class="obsidian-base-card-field"><span class="obsidian-base-card-label">${escapeHtml(displayName)}</span>: <span class="obsidian-base-card-value">${formatCellValue(value, col, row)}</span></div>`;
+			html += `<div class="obsidian-base-card-field"><span class="obsidian-base-card-label">${escapeHtml(displayName)}</span>: <span class="obsidian-base-card-value" data-column="${col}">${formatCellValue(value, col, row)}</span></div>`;
 		}
 
 		html += "</div></div>";
