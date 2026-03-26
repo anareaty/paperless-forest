@@ -487,3 +487,12 @@ input[type=checkbox][data-task=">"]:checked::after {
 .obsidian-base-value-list-item:is([data-value="note"], [data-value="gardenEntry"]) {
     display: none
 }
+
+
+.obsidian-base-value-list-item {
+    margin: 0 2px;
+    padding: 0 8px;
+    background-color: var(--background-secondary-alt);
+    border-radius: 12px;
+    font-size: 0.9em;
+}
