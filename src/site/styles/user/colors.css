@@ -1,3 +1,9 @@
+.social-links {
+	display: flex;
+	gap: 4px;
+	margin: 10px 0;
+}
+
 .navbar .social-links {
 	display: none;
 }
