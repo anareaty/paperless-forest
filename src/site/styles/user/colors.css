@@ -515,3 +515,8 @@ input[type=checkbox][data-task=">"]:checked::after {
     flex-direction: column;
     gap: 4px;
 }
+
+
+.obsidian-bases-toolbar {
+    display: none;
+}
