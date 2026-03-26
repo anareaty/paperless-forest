@@ -474,3 +474,12 @@ input[type=checkbox][data-task=">"]:checked::after {
     scrollbar-width: none;
 }
 
+
+
+.obsidian-base-card-field {
+    font-size: 0;
+}
+
+.obsidian-base-card-value {
+    font-size: 0.85rem;
+}
