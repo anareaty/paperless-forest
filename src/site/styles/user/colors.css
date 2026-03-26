@@ -194,6 +194,7 @@ body {
   --dg-content-max-width: 850px;
   --dg-toc-item-padding: 2px 0;
   --dg-toc-padding: 5px 0;
+	--dg-filetree-title-size: 28px;
 }
 
 .filetree-sidebar, .navbar {
