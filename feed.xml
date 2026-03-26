@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://paperless-forest.ru">
-  <title>Digital Garden</title>
+  <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-26T17:34:00Z</updated>
+  <updated>2026-03-26T17:35:18Z</updated>
   <id>https://paperless-forest.ru</id><entry>
     <title>Последние записи</title>
-    <updated>2026-03-26T17:33:47Z</updated>
+    <updated>2026-03-26T17:35:05Z</updated>
     <id>https://paperless-forest.ru/poslednie-zapisi/</id>
     <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;3 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/&quot; class=&quot;internal-link&quot;&gt;Главная страница&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot;&gt;note, gardenEntry&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/obo-mne/&quot; class=&quot;internal-link&quot;&gt;Обо мне&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot;&gt;note&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/poslednie-zapisi/&quot; class=&quot;internal-link&quot;&gt;Последние записи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot;&gt;note&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
     <link href="https://paperless-forest.ru/poslednie-zapisi/"/>
   </entry><entry>
     <title>Обо мне</title>
-    <updated>2026-03-26T17:33:47Z</updated>
+    <updated>2026-03-26T17:35:05Z</updated>
     <id>https://paperless-forest.ru/obo-mne/</id>
     <content type="html">&lt;p&gt;Меня зовут Анастасия Федотова.&lt;/p&gt;
 </content>
