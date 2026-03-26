@@ -1,4 +1,16 @@
+.header-meta {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
 
+.timestamps {
+	margin-top: 0;
+}
+
+header h1 {
+	margin: 0 0 10px 0;
+}
 
 body {
   --accent-h: 9;
