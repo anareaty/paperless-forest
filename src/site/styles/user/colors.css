@@ -1,7 +1,7 @@
 
 p>code {
 	color: var(--text-muted);
-	background-color: var(--backgroung-primary-alt);
+	background-color: var(--background-primary-alt);
 }
 
 
@@ -14,7 +14,7 @@ pre[class*=language-] {
 
 :not(pre)>code[class*=language-],
 pre[class*=language-] {
-	background: var(--backgroung-primary-alt);
+	background: var(--background-primary-alt);
 }
 
 
