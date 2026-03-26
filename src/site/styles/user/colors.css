@@ -478,13 +478,14 @@ input[type=checkbox][data-task=">"]:checked::after {
 
 .obsidian-base-card-field {
     font-size: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px;
+    
 }
 
 .obsidian-base-card-value {
     font-size: 0.85rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
 }
 
 .obsidian-base-value-list-item:is([data-value="note"], [data-value="gardenEntry"]) {
