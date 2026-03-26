@@ -5,6 +5,18 @@ p>code {
 }
 
 
+code[class*=language-],
+pre[class*=language-] {
+	color: var(--text-muted);
+	text-shadow: none;
+}
+
+
+:not(pre)>code[class*=language-],
+pre[class*=language-] {
+	background: var(--backgroung-primary-alt);
+}
+
 
 
 body {
