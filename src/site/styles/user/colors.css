@@ -470,3 +470,7 @@ input[type=checkbox][data-task=">"]:checked::after {
 }
 
 
+.filetree-sidebar>.folder {
+    scrollbar-width: none;
+}
+
