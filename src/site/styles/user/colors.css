@@ -236,6 +236,10 @@ td, th {
 	padding-inline-start: 20px;
 }
 
+.content > ul.task-list {
+	padding-inline-start: 0px;
+}
+
 
 input[type=checkbox]:is([data-task="-"], [data-task="~"], [data-task=">"], [data-task="/"]) {
     background-color: transparent;
