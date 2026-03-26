@@ -198,8 +198,9 @@ function formatCellValue(value, column, row) {
 				const slug = item.split("/").pop().replace(/\.md$/, "") || item;
 				return `<a href="/404" class="internal-link is-unresolved">${escapeHtml(slug)}</a>`;
 			}
-			return escapeHtml(String(item));
-		}).join(", ");
+			let text = escapeHtml(String(item))
+			return `<span class="obsidian-base-value-list-item" data-value='${text}'>${text}</span>`;
+		}).join("");
 	}
 
 	if (value == null) {
