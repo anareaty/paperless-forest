@@ -496,3 +496,8 @@ input[type=checkbox][data-task=">"]:checked::after {
     border-radius: 12px;
     font-size: 0.9em;
 }
+
+obsidian-base-card-value[data-column="tags"] .obsidian-base-value-list-item {
+    background-color: hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.1);
+    color: var(--text-accent);
+}
