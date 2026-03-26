@@ -5,11 +5,18 @@
 .token.entity,
 .token.operator,
 .token.url,
-.token.variable
+.token.variable,
+.token.punctuation
 {
 	color: var(--text-normal);
 }
 
+
+.token.keyword {
+	color: #39b0c7;
+}
+
+.
 
 
 
