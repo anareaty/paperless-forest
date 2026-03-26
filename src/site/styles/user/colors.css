@@ -3,19 +3,41 @@
 .language-css .token.string,
 .style .token.string,
 .token.entity,
-.token.operator,
-.token.url,
-.token.variable,
+.token.url
+{
+	color: rgb(var(--color-green-rgb));
+}
+
 .token.punctuation
 {
-	color: var(--text-normal);
+	color: var(--text-muted);
 }
 
+.token.operator {
+	color: rgb(var(--color-red-rgb));
+}
+
+.token.variable,
+.token.parameter {
+	color: rgb(var(--color-cyan-rgb));
+}
 
 .token.keyword {
-	color: #39b0c7;
+	color: rgb(var(--color-pink-rgb));
 }
 
+.token.boolean,
+.token.number {
+	color: rgb(var(--color-purple-rgb));
+}
+
+
+.token.atrule,
+.token.attr-value,
+.token.class-name,
+.token.function {
+	color: rgb(var(--color-yellow-rgb));
+}
 
 
 
