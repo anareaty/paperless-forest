@@ -4,6 +4,13 @@
 	gap: 10px;
 }
 
+.header-tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2px;
+}
+
+
 .timestamps {
 	margin-top: 0;
 	order: -1;
