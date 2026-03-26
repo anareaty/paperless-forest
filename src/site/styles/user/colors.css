@@ -1,3 +1,7 @@
+.preview-body header {
+	display: none;
+}
+
 .social-links {
 	display: flex;
 	gap: 8px;
