@@ -3,6 +3,13 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-26T17:19:11Z</updated>
-  <id>https://paperless-forest.ru</id></feed>
+  <updated>2026-03-26T17:19:31Z</updated>
+  <id>https://paperless-forest.ru</id><entry>
+    <title>Обо мне</title>
+    <updated>2026-03-26T17:19:21Z</updated>
+    <id>https://paperless-forest.ru/sajt/obo-mne/</id>
+    <content type="html">&lt;p&gt;Меня зовут Анастасия Федотова.&lt;/p&gt;
+</content>
+    <link href="https://paperless-forest.ru/sajt/obo-mne/"/>
+  </entry></feed>
 
