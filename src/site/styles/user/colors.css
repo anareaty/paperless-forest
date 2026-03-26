@@ -1,3 +1,7 @@
+.navbar-title-link {
+	order: 1;
+}
+
 @media (max-width: 1000px) {
 	.filetree-sidebar .site-logo {
 		display: none;
