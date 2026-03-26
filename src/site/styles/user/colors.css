@@ -3,6 +3,11 @@ body {
     --callout-blend-mode: normal;
 }
 
+.callout-icon svg {
+	height: 1em;
+	width: 1em;
+}
+
 
 .custom-list-icon {
 	vertical-align: middle;
