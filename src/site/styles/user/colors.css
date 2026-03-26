@@ -1,3 +1,7 @@
+.navbar .social-links {
+	display: none;
+}
+
 .navbar-title-link {
 	order: 1;
 }
