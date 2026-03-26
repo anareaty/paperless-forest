@@ -1,4 +1,18 @@
 
+
+.language-css .token.string,
+.style .token.string,
+.token.entity,
+.token.operator,
+.token.url,
+.token.variable
+{
+	color: var(--text-normal);
+}
+
+
+
+
 p>code {
 	color: var(--text-muted);
 	background-color: var(--background-primary-alt);
