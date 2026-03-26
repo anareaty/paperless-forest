@@ -262,7 +262,7 @@ function renderTable(view, properties) {
 				html += "<tr>";
 				for (const col of columns) {
 					const value = getCellValue(row, col);
-					html += `<td>${formatCellValue(value, col, row)}</td>`;
+					html += `<td data-column="${col}">${formatCellValue(value, col, row)}</td>`;
 				}
 				html += "</tr>";
 			}
@@ -291,7 +291,7 @@ function buildTable(columns, rows, properties) {
 		html += "<tr>";
 		for (const col of columns) {
 			const value = getCellValue(row, col);
-			html += `<td>${formatCellValue(value, col, row)}</td>`;
+			html += `<td data-column="${col}">${formatCellValue(value, col, row)}</td>`;
 		}
 		html += "</tr>";
 	}
@@ -418,7 +418,7 @@ function buildList(rows, columns, properties) {
 		for (const col of columns) {
 			parts.push(formatCellValue(getCellValue(row, col), col, row));
 		}
-		html += `<li>${parts.join(" — ")}</li>`;
+		html += `<li data-column="${col}">${parts.join(" — ")}</li>`;
 	}
 	html += "</ul>";
 	return html;
