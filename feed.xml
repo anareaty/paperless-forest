@@ -3,23 +3,76 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-26T19:55:01Z</updated>
+  <updated>2026-03-30T18:02:13Z</updated>
   <id>https://paperless-forest.ru</id><entry>
+    <title>Obsidian</title>
+    <updated>2026-03-30T18:02:02Z</updated>
+    <id>https://paperless-forest.ru/Технологии/Obsidian/Obsidian/</id>
+    <content type="html">&lt;p&gt;Obsidian — приложение для ведения заметок в формате Markdown.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!bare] &lt;a href=&quot;https://obsidian.md/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;&lt;img src=&quot;https://paperless-forest.ru/img/user/_/attachments/banner.png&quot; alt=&quot;banner.png400x150&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;ssylki&quot; tabindex=&quot;-1&quot;&gt;Ссылки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://obsidian.md/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Официальный сайт&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://forum.obsidian.md/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Форум&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://discord.gg/obsidianmd&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Дискорд&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://help.obsidian.md/Home&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Справка&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://publish.obsidian.md/help-ru/%D0%9D%D0%B0%D1%87%D0%BD%D0%B8%D1%82%D0%B5+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Русскоязычная справка&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.obsidian.md/Home&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Документация для разработчиков&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://obsidian.md/changelog/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Что нового&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://obsidian.md/roadmap/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Дорожная карта&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;800&quot; height=&quot;500&quot; src=&quot;https://obsidian.md/roadmap/&quot;&gt;&lt;/iframe&gt;
+&lt;h2 id=&quot;preimushhestva-obsidian&quot; tabindex=&quot;-1&quot;&gt;Преимущества Obsidian&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Локальное хранение заметок:
+&lt;ul&gt;
+&lt;li&gt;безопасность&lt;/li&gt;
+&lt;li&gt;скорость&lt;/li&gt;
+&lt;li&gt;независимость от интеренета&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Открытый текстовый формат
+&lt;ul&gt;
+&lt;li&gt;надёжность&lt;/li&gt;
+&lt;li&gt;независимость от приложения&lt;/li&gt;
+&lt;li&gt;простая интеграция с другими инструментами&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Расширяемость плагинами&lt;/li&gt;
+&lt;li&gt;Настраиваемый внешний вид&lt;/li&gt;
+&lt;li&gt;Шаблоны&lt;/li&gt;
+&lt;li&gt;Бесплатно (для личного пользования)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;dopolnitelnaya-informacziya&quot; tabindex=&quot;-1&quot;&gt;Дополнительная информация&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Приложение Obsidian для десктопных компьютеров написано на основе Electron.&lt;/li&gt;
+&lt;li&gt;Приложение для Android основано на  &lt;a href=&quot;https://capacitorjs.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Capacitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.16&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Obsidian 1.1.16&lt;/a&gt; — последняя версия, которая работает на Windows 7/8
+&lt;ul&gt;
+&lt;li&gt;Из этого установщика можно обновиться до 1.6.7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    <link href="https://paperless-forest.ru/Технологии/Obsidian/Obsidian/"/>
+  </entry><entry>
     <title>KOReader</title>
-    <updated>2026-03-26T19:54:50Z</updated>
+    <updated>2026-03-30T18:02:02Z</updated>
     <id>https://paperless-forest.ru/Технологии/KOReader/KOReader/</id>
     <content type="html">&lt;p&gt;KOReader — программа для чтения электронных книг с открытым исходным кодом. Работает на Linux и Android, есть версии для большинства популярных читалок (PocketBook, Kindle, Kobo и т. п.).&lt;/p&gt;
 </content>
     <link href="https://paperless-forest.ru/Технологии/KOReader/KOReader/"/>
   </entry><entry>
     <title>Последние записи</title>
-    <updated>2026-03-26T19:54:50Z</updated>
+    <updated>2026-03-30T18:02:02Z</updated>
     <id>https://paperless-forest.ru/Последние записи/</id>
-    <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;1 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/KOReader/KOReader/&quot; class=&quot;internal-link&quot;&gt;KOReader&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;ggg&quot;&gt;ggg&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;jjj&quot;&gt;jjj&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;2 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/KOReader/KOReader/&quot; class=&quot;internal-link&quot;&gt;KOReader&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;ggg&quot;&gt;ggg&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;jjj&quot;&gt;jjj&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot; class=&quot;internal-link&quot;&gt;Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
     <link href="https://paperless-forest.ru/Последние записи/"/>
   </entry><entry>
     <title>Обо мне</title>
-    <updated>2026-03-26T19:54:50Z</updated>
+    <updated>2026-03-30T18:02:02Z</updated>
     <id>https://paperless-forest.ru/Обо мне/</id>
     <content type="html">&lt;p&gt;Меня зовут Анастасия Федотова.&lt;/p&gt;
 </content>
