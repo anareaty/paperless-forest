@@ -534,3 +534,10 @@ input[type=checkbox][data-task=">"]:checked::after {
     --callout-padding: 0;
     --display-callout-icon: none;
 }
+
+
+
+main.content > ul li {
+	padding-top: 0.075em;
+	padding-bottom: 0.075em;
+}
