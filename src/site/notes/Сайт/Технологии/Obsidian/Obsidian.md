@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Технологии/Obsidian/Obsidian.md","permalink":"/Технологии/Obsidian/Obsidian/","tags":["Obsidian"],"created":"2026-03-30T22:01:00","dg-note-properties":{"date":"2023-11-09","cssclasses":["note","hide-backlinks"],"aliases":["Обсидиан","#Obsidian","Обсидиану","Obsidian"],"Класс":"[[24. Страница на сайт|Страница]]","published":"2026-03-30T22:01:00","Статус страницы":["закончено"],"tags":["Obsidian"]}}
+{"dg-publish":true,"dg-path":"Технологии/Obsidian/Obsidian.md","permalink":"/Технологии/Obsidian/Obsidian/","tags":["Obsidian"],"created":"2026-03-30T22:01:00","dg-note-properties":{"date":"2023-11-09","cssclasses":["note","hide-backlinks"],"aliases":["Обсидиан","#Obsidian","Обсидиану","Obsidian"],"Класс":"[Страница]]","published":"2026-03-30T22:01:00","Статус страницы":["закончено"],"tags":["Obsidian"],"cover":"[[banner.png](/img/user/_/classes/24.%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82.md)"}}
 ---
 
 
-Obsidian — приложение для ведения заметок в формате Markdown.  
-
-> [!bare] [![banner.png\|400x150](/img/user/_/attachments/banner.png)](https://obsidian.md) 
+[Obsidian](https://obsidian.md) — приложение для ведения заметок в формате Markdown.  
 
 ## Ссылки
 
