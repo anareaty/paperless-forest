@@ -18,8 +18,6 @@ Obsidian — приложение для ведения заметок в фор
 - [Что нового](https://obsidian.md/changelog/)
 - [Дорожная карта](https://obsidian.md/roadmap/)
 
-<iframe width="800" height="500" src="https://obsidian.md/roadmap/"></iframe>
-
 ## Преимущества Obsidian
 
 - Локальное хранение заметок:
