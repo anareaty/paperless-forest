@@ -7,6 +7,8 @@ Obsidian — приложение для ведения заметок в фор
 
 > [!bare] [![banner.png\|400x150](/img/user/_/attachments/banner.png)](https://obsidian.md) 
 
+> [!bare] [![400](/img/user/_/attachments/banner.png)](https://obsidian.md) 
+
 ## Ссылки
 
 - [Официальный сайт](https://obsidian.md)
