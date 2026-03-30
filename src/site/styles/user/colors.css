@@ -520,3 +520,17 @@ input[type=checkbox][data-task=">"]:checked::after {
 .obsidian-bases-toolbar {
     display: none;
 }
+
+.callout {
+    --display-callout-icon: flex;
+}
+
+.callout-icon {
+    display: var(--display-callout-icon);
+}
+
+[data-callout="bare"] {
+    --callout-color: transparent;
+    --callout-padding: 0;
+    --display-callout-icon: none;
+}
