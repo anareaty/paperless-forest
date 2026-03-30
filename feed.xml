@@ -3,10 +3,129 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-30T18:02:13Z</updated>
+  <updated>2026-03-30T18:02:40Z</updated>
   <id>https://paperless-forest.ru</id><entry>
+    <title>Мои плагины для Obsidian</title>
+    <updated>2026-03-30T18:02:26Z</updated>
+    <id>https://paperless-forest.ru/Технологии/Obsidian/Мои плагины для Obsidian/</id>
+    <content type="html">&lt;p&gt;Список плагинов, которые я написала для приложения &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot;&gt;Obsidian&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;oficzialnye&quot; tabindex=&quot;-1&quot;&gt;Официальные&lt;/h2&gt;
+&lt;p&gt;Эти плагины официально добавлены в Обсидиан и могут быть установлены через браузер плагинов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;^&quot; style=&quot;color: rgb(var(--color-yellow-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-star&quot;&gt;&lt;polygon points=&quot;12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2   9.27 8.91 8.26 12 2&quot;&gt;&lt;/polygon&gt;&lt;/svg&gt;&lt;/span&gt; &lt;a href=&quot;https://github.com/anareaty/pretty-properties&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Pretty Properties&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Позволяет добавлять в заметку баннеры, обложки и боковые изображения рядом с блоком свойств&lt;/li&gt;
+&lt;li&gt;Добавляет меню для выбора цвета свойств и тэгов&lt;/li&gt;
+&lt;li&gt;Позволяет скрывать ненужные или пустые свойства&lt;/li&gt;
+&lt;li&gt;Позволяет установить свой формат даты&lt;/li&gt;
+&lt;li&gt;Множество других настроек для отображения и форматирования свойств&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/html-checkboxes&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;HTML checkboxes&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Упрощает добавление в заметку чекбоксов в формате HTML&lt;/li&gt;
+&lt;li&gt;Делает HTML-чекбоксы кликабельными&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;custom-list-icon&quot; data-symbol=&quot;!!&quot; style=&quot;color: rgb(var(--color-red-rgb));&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; class=&quot;svg-icon   lucide-alert-triangle&quot;&gt;&lt;path d=&quot;m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12 9v4&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M12 17h.01&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt; У плагина есть проблемы с производительностью и он больше не обновляется&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/callout-menu&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Callout menu&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавляет дополнительные функции в меню, которое открывается при правом клике на выносной блок&lt;/li&gt;
+&lt;li&gt;Позволяет добавить в меню свои типы выносных блоков для быстрого переключения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;na-proverke&quot; tabindex=&quot;-1&quot;&gt;На проверке&lt;/h2&gt;
+&lt;p&gt;Эти плагины пока проверяются командой Obsidian и будут добавлены в браузер плагинов после утверждения. До этого момента могут быть установлены вручную или с помощью плагина BRAT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/task-count&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Task Count&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Автоматически подсчитывает количество выполненных или невыполненных задач в заметке и сохраняет это число в свойствах&lt;/li&gt;
+&lt;li&gt;В том числе поддерживает задачи из плагина TaskNotes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;neoficzialnye&quot; tabindex=&quot;-1&quot;&gt;Неофициальные&lt;/h2&gt;
+&lt;p&gt;Эти плагины написаны для личного пользования, и я пока не планирую официально добавлять их в Обсидиан. Устанавливаются вручную или с помощью плагина BRAT.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!warning] Предупреждение&lt;br /&gt;
+Неофициальные плагины могут содержать баги, жёстко прописанные настройки или просто быть недописаны или заброшены. Я не обеспечиваю поддержку этих плагинов и не принимаю запросов на их улучшение. Устанавливайте на свой страх и риск!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/custom-lists&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Custom Lists&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Клон плагина List Callouts (но со своими особенностями)&lt;/li&gt;
+&lt;li&gt;Добавляет иконки и цвета к элементам списка&lt;/li&gt;
+&lt;li&gt;Поддерживаются только иконки Lucide&lt;/li&gt;
+&lt;li&gt;Цвет иконки, фона и текста можно настроить отдельно&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/checkboxes-plus&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Checkboxes Plus&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Позволяет добавлять чекбоксы в таблицы Markdown&lt;/li&gt;
+&lt;li&gt;Добавляет меню для выбора статуса при правом клике на чекбокс&lt;/li&gt;
+&lt;li&gt;Добавляет значки для альтернативных чекбоксов&lt;/li&gt;
+&lt;li&gt;Поддерживается только четыре альтернативных статуса чекбоксов без возможности редактирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/clean-syncthing-conflicts&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Clean Syncthing Conflicts&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Находит все конфликтные файлы Syncthing и переносит их в папку &lt;code&gt;.sync-conflicts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Папка периодически очищается&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/note-classes&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Note Classes&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Вводит специальные шаблоны классов, позволяющие изменить свойства файла, не затрагивая содержимое&lt;/li&gt;
+&lt;li&gt;Изменение класса файла удаляет из него все ненужные свойства и добавляет недостающие&lt;/li&gt;
+&lt;li&gt;При изменении шаблона можно автоматически обновить свойства во всех файлах с этим классом&lt;/li&gt;
+&lt;li&gt;Есть опция для автоматического перемещения всех файлов с определённым классом в определённую папку&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/useful-commands&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Useful commands&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавляет множество небольших, но полезных команд для Обсидиана&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/views&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Views&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Плагин для создания визуально редактируемых таблиц (написан до появления баз данных в Обсидиане)&lt;/li&gt;
+&lt;li&gt;Для работы требуется Dataview&lt;/li&gt;
+&lt;li&gt;Может работать на старых версиях Обсидиана, не поддерживающих базы данных&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/writing-system&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Writing System&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Плагин для организации писательских проектов и отслеживания писательского прогресса&lt;/li&gt;
+&lt;li&gt;В разработке (значительная часть функционала пока отсутствует)&lt;/li&gt;
+&lt;li&gt;Нестандартная организация проектов (с помощью ссылок, а не папок)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;modifikaczii-chuzhih-plaginov&quot; tabindex=&quot;-1&quot;&gt;Модификации чужих плагинов&lt;/h2&gt;
+&lt;p&gt;Это форки плагинов, написанных другими людьми, с небольшими персональными изменениями. В них могут быть удалены или добавлены какие-то функции, изменены стили и т. п. Эти форки не будут официально публиковаться или поддерживаться, и в целом я рекомендую пользоваться оригинальными плагинами, если только вы не склонны к экспериментам.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/horizontal-blocks-fork&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Форк Horizontal Blocks&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Упрощены стили и удалены настройки&lt;/li&gt;
+&lt;li&gt;Добавлена поддержка кликабельных чекбоксов&lt;/li&gt;
+&lt;li&gt;Изменён способ сохранения ширины колонок (ширина сохраняеся в самом блоке кода вместо файла настроек)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anareaty/obsidian-journal-fork&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Форк Journal&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Изменены стили и упрощён внешний вид календаря&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!info] Все мои плагины написаны без использования ИИ.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    <link href="https://paperless-forest.ru/Технологии/Obsidian/Мои плагины для Obsidian/"/>
+  </entry><entry>
     <title>Obsidian</title>
-    <updated>2026-03-30T18:02:02Z</updated>
+    <updated>2026-03-30T18:02:26Z</updated>
     <id>https://paperless-forest.ru/Технологии/Obsidian/Obsidian/</id>
     <content type="html">&lt;p&gt;Obsidian — приложение для ведения заметок в формате Markdown.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -59,20 +178,20 @@
     <link href="https://paperless-forest.ru/Технологии/Obsidian/Obsidian/"/>
   </entry><entry>
     <title>KOReader</title>
-    <updated>2026-03-30T18:02:02Z</updated>
+    <updated>2026-03-30T18:02:26Z</updated>
     <id>https://paperless-forest.ru/Технологии/KOReader/KOReader/</id>
     <content type="html">&lt;p&gt;KOReader — программа для чтения электронных книг с открытым исходным кодом. Работает на Linux и Android, есть версии для большинства популярных читалок (PocketBook, Kindle, Kobo и т. п.).&lt;/p&gt;
 </content>
     <link href="https://paperless-forest.ru/Технологии/KOReader/KOReader/"/>
   </entry><entry>
     <title>Последние записи</title>
-    <updated>2026-03-30T18:02:02Z</updated>
+    <updated>2026-03-30T18:02:26Z</updated>
     <id>https://paperless-forest.ru/Последние записи/</id>
-    <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;2 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/KOReader/KOReader/&quot; class=&quot;internal-link&quot;&gt;KOReader&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;ggg&quot;&gt;ggg&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;jjj&quot;&gt;jjj&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot; class=&quot;internal-link&quot;&gt;Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;3 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/KOReader/KOReader/&quot; class=&quot;internal-link&quot;&gt;KOReader&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;ggg&quot;&gt;ggg&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;jjj&quot;&gt;jjj&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot; class=&quot;internal-link&quot;&gt;Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20Obsidian/&quot; class=&quot;internal-link&quot;&gt;Мои плагины для Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;plugins&quot;&gt;plugins&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
     <link href="https://paperless-forest.ru/Последние записи/"/>
   </entry><entry>
     <title>Обо мне</title>
-    <updated>2026-03-30T18:02:02Z</updated>
+    <updated>2026-03-30T18:02:26Z</updated>
     <id>https://paperless-forest.ru/Обо мне/</id>
     <content type="html">&lt;p&gt;Меня зовут Анастасия Федотова.&lt;/p&gt;
 </content>
