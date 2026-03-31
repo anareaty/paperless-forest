@@ -3,10 +3,10 @@
   <title>Paperless Forest</title>
   <link href="https://paperless-forest.ru/feed.xml" rel="self"/>
   <link href="https://paperless-forest.ru"/>
-  <updated>2026-03-31T10:29:38Z</updated>
+  <updated>2026-03-31T10:31:42Z</updated>
   <id>https://paperless-forest.ru</id><entry>
     <title>Мои плагины для Obsidian</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Технологии/Obsidian/Мои плагины для Obsidian/</id>
     <content type="html">&lt;p&gt;Список плагинов, которые я написала для приложения &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot;&gt;Obsidian&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;oficzialnye&quot; tabindex=&quot;-1&quot;&gt;Официальные&lt;/h2&gt;
@@ -125,7 +125,7 @@
     <link href="https://paperless-forest.ru/Технологии/Obsidian/Мои плагины для Obsidian/"/>
   </entry><entry>
     <title>Альтернативные чекбоксы в Obsidian</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Технологии/Obsidian/Альтернативные чекбоксы в Obsidian/</id>
     <content type="html">&lt;p&gt;По умолчанию &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot;&gt;Obsidian&lt;/a&gt; поддерживает стандартные чекбоксы в формате Markdown:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;- [ ] задача
@@ -138,6 +138,21 @@
 &lt;p&gt;Однако, при помощи CSS можно создавать свои собственные дополнительные чекбоксы с альтернативными значками, например, такие:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://paperless-forest.ru/img/user/_/attachments/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5%20%D1%87%D0%B5%D0%BA%D0%B1%D0%BE%D0%BA%D1%81%D1%8B.jpg&quot; alt=&quot;Скриншот кастомные чекбоксы.jpgСкриншот кастомные чекбоксы.jpg&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Некоторые темы для Обсидиана уже содержат встроенные альтернативные чекбоксы, однако можно прописать свои собственные правила для альтернативных чекбоксов, назначив им собственные цвета и иконки. Например, такой CSS-сниппет превращает чекбокс &lt;code&gt;- [h]&lt;/code&gt; в красное сердечко:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;input[data-task=&amp;quot;h&amp;quot;]:checked,
+li[data-task=&amp;quot;h&amp;quot;] &amp;gt; input:checked,
+li[data-task=&amp;quot;h&amp;quot;] &amp;gt; p &amp;gt; input:checked {
+  --checkbox-marker-color: transparent;
+  border: none;
+  border-radius: 0;
+  background-image: none;
+  background-color: currentColor;
+  -webkit-mask-size: var(--checkbox-icon);
+  -webkit-mask-position: 50% 50%;
+
+  color: var(--color-red);
+  -webkit-mask-image: url(&amp;quot;data:image/svg+xml,%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 24 24&#39; width=&#39;18&#39; height=&#39;18&#39; %3E%3Cpath fill=&#39;none&#39; d=&#39;M0 0H24V24H0z&#39;/%3E%3Cpath d=&#39;M12.001 4.529c2.349-2.109 5.979-2.039 8.242.228 2.262 2.268 2.34 5.88.236 8.236l-8.48 8.492-8.478-8.492c-2.104-2.356-2.025-5.974.236-8.236 2.265-2.264 5.888-2.34 8.244-.228z&#39;/%3E%3C/svg%3E&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Чтобы прописать правило для другого чекбокса, заменяем &lt;code&gt;&amp;quot;h&amp;quot;&lt;/code&gt; на другой символ, &lt;code&gt;--color-red&lt;/code&gt; на другой цвет, &lt;code&gt;-webkit-mask-image&lt;/code&gt;указываем url нужной иконки. Url иконок можно найти на сайтах с бесплатными иконками, например, &lt;a href=&quot;https://remixicon.com/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Remix Icon&lt;/a&gt; или &lt;a href=&quot;https://lucide.dev/icons/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Lucide&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Если надо сделать так, чтобы при клике на чекбокс он не менялся:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.HyperMD-task-line[data-task=&amp;quot;h&amp;quot;] &amp;gt; .task-list-label, 
@@ -153,7 +168,7 @@ li[data-task=&amp;quot;h&amp;quot;] &amp;gt; p &amp;gt; input
     <link href="https://paperless-forest.ru/Технологии/Obsidian/Альтернативные чекбоксы в Obsidian/"/>
   </entry><entry>
     <title>Obsidian</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Технологии/Obsidian/Obsidian/</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;https://obsidian.md/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;Obsidian&lt;/a&gt; — приложение для ведения заметок в формате Markdown.&lt;/p&gt;
 &lt;h2 id=&quot;ssylki&quot; tabindex=&quot;-1&quot;&gt;Ссылки&lt;/h2&gt;
@@ -202,20 +217,20 @@ li[data-task=&amp;quot;h&amp;quot;] &amp;gt; p &amp;gt; input
     <link href="https://paperless-forest.ru/Технологии/Obsidian/Obsidian/"/>
   </entry><entry>
     <title>KOReader</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Технологии/KOReader/KOReader/</id>
     <content type="html">&lt;p&gt;KOReader — программа для чтения электронных книг с открытым исходным кодом. Работает на Linux и Android, есть версии для большинства популярных читалок (PocketBook, Kindle, Kobo и т. п.).&lt;/p&gt;
 </content>
     <link href="https://paperless-forest.ru/Технологии/KOReader/KOReader/"/>
   </entry><entry>
     <title>Последние записи</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Последние записи/</id>
     <content type="html">&lt;div class=&quot;obsidian-bases-views&quot;&gt;&lt;div class=&quot;obsidian-bases-toolbar&quot;&gt;&lt;span class=&quot;obsidian-bases-single-view-name&quot;&gt;&lt;svg class=&quot;obsidian-bases-view-icon&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;rect x=&quot;3&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;3&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;3&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;rect x=&quot;14&quot; y=&quot;14&quot; width=&quot;7&quot; height=&quot;7&quot; rx=&quot;1&quot;&gt;&lt;/rect&gt;&lt;/svg&gt; Последние записи&lt;/span&gt; &lt;span class=&quot;obsidian-bases-result-count&quot;&gt;4 results&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-cards&quot; style=&quot;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));&quot;&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/KOReader/KOReader/&quot; class=&quot;internal-link&quot;&gt;KOReader&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;ggg&quot;&gt;ggg&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;jjj&quot;&gt;jjj&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/Obsidian/&quot; class=&quot;internal-link&quot;&gt;Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/%D0%90%D0%BB%D1%8C%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%87%D0%B5%D0%BA%D0%B1%D0%BE%D0%BA%D1%81%D1%8B%20%D0%B2%20Obsidian/&quot; class=&quot;internal-link&quot;&gt;Альтернативные чекбоксы в Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;css&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;checkboxes&quot;&gt;checkboxes&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card&quot;&gt;&lt;div class=&quot;obsidian-base-card-content&quot;&gt;&lt;div class=&quot;obsidian-base-card-title&quot;&gt;&lt;a href=&quot;https://paperless-forest.ru/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/Obsidian/%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20Obsidian/&quot; class=&quot;internal-link&quot;&gt;Мои плагины для Obsidian&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;obsidian-base-card-field&quot;&gt;&lt;span class=&quot;obsidian-base-card-label&quot;&gt;Tags&lt;/span&gt;: &lt;span class=&quot;obsidian-base-card-value&quot; data-column=&quot;tags&quot;&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;Obsidian&quot;&gt;Obsidian&lt;/span&gt;&lt;span class=&quot;obsidian-base-value-list-item&quot; data-value=&quot;plugins&quot;&gt;plugins&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</content>
     <link href="https://paperless-forest.ru/Последние записи/"/>
   </entry><entry>
     <title>Обо мне</title>
-    <updated>2026-03-31T10:29:27Z</updated>
+    <updated>2026-03-31T10:31:28Z</updated>
     <id>https://paperless-forest.ru/Обо мне/</id>
     <content type="html">&lt;p&gt;Меня зовут Анастасия Федотова.&lt;/p&gt;
 </content>
